@@ -1,2 +1,2 @@
+console.log(`hello boolean ${process.argv[2]}`);
 
-console.log("hello world");
